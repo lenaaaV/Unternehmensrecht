@@ -1,0 +1,21 @@
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}1. Einheit}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Wovon handelt das Handelsrecht?}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Bürgerliches Recht ergänzende Normen}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Funktionen des Handeslrecht}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Quellen des Handelsrecht}{2}{}%
+\contentsline {subsection}{\numberline {1.5}Aufbau des Handelsgesetzbuches}{3}{}%
+\contentsline {subsection}{\numberline {1.6}Entstehungsgeschichte des Handelsrechts}{3}{}%
+\contentsline {subsection}{\numberline {1.7}Der Kaufmannsbegriff}{3}{}%
+\contentsline {subsection}{\numberline {1.8}Schematische Darstellung des Kaufmannsbegriffs}{4}{}%
+\contentsline {subsection}{\numberline {1.9}Widerholungsfragen für die nächste Einheit}{4}{}%
+\contentsline {section}{\numberline {2}2. Einheit}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Ist-Kaufmann}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Gewerbe}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Unternehmer}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Unternehmen und Unternehmer}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Kannkaufmann}{7}{}%
+\contentsline {subsection}{\numberline {2.6}Fiktivkaufmann}{8}{}%
+\contentsline {subsection}{\numberline {2.7}Formkaufmann}{9}{}%
+\contentsline {subsection}{\numberline {2.8}Scheinkaufmann}{9}{}%
+\contentsline {subsection}{\numberline {2.9}Zusammenfassung: Prüfunfsreihenfolge}{10}{}%
