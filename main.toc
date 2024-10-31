@@ -18,4 +18,4 @@
 \contentsline {subsection}{\numberline {2.6}Fiktivkaufmann}{8}{}%
 \contentsline {subsection}{\numberline {2.7}Formkaufmann}{9}{}%
 \contentsline {subsection}{\numberline {2.8}Scheinkaufmann}{9}{}%
-\contentsline {subsection}{\numberline {2.9}Zusammenfassung: Prüfunfsreihenfolge}{10}{}%
+\contentsline {subsection}{\numberline {2.9}Zusammenfassung: Prüfungsreihenfolge}{10}{}%

@@ -3,10 +3,13 @@ name: LaTeX-to-PDF
 on:
   push:
     branches:
-      - main  # Passe dies an deinen Branch an
+      - main
   pull_request:
     branches:
       - main
+
+permissions:
+  contents: write  # Erlaubt dem Workflow, Änderungen im Repository vorzunehmen
 
 jobs:
   build_latex:
