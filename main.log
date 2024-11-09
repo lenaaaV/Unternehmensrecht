@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.22)  31 OCT 2024 02:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.22)  9 NOV 2024 23:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -542,7 +542,22 @@ File: Bildschirmfoto 2024-10-30 um 17.05.46.png Graphic file (type png)
 <use Bildschirmfoto 2024-10-30 um 17.05.46.png>
 Package pdftex.def Info: Bildschirmfoto 2024-10-30 um 17.05.46.png  used on input line 515.
 (pdftex.def)             Requested size: 241.84843pt x 127.52936pt.
- [10 <./Bildschirmfoto 2024-10-30 um 17.05.46.png>] (./main.aux)
+ [10 <./Bildschirmfoto 2024-10-30 um 17.05.46.png>]
+Overfull \hbox (0.88913pt too wide) in paragraph at lines 528--529
+[]\OT1/cmr/bx/n/10 auf wirt-schaft-li-chem Ge-biet = nicht frei-be-ruf-luch \OT1/cmr/m/n/10 (nicht wis-sen-schaft-lich, leh-rend, k[]unstlerisch,
+ []
+
+
+Overfull \hbox (15.37285pt too wide) in paragraph at lines 535--536
+[]\OT1/cmr/bx/n/10 Gewerbe + Gr[]o^^Ye \OT1/cmr/m/n/10 f[]ur pro-fes-sio-nel-le Be-triebsf[]uhrung $[][]\OMS/cmsy/m/n/10 !$ \OT1/cmr/m/n/10 kaufm[]annisch ein-ge-rich-te-ter Gesch[]aftsbetrieb
+ []
+
+
+Overfull \hbox (12.11781pt too wide) in paragraph at lines 536--537
+[]\OT1/cmr/m/n/10 Einrichtungen, die n[]otig sind, um \OT1/cmr/bx/n/10 or-dent-li-che, []ubersichtliche und zu-verl[]assige Gesch[]aftsf[]uhrung
+ []
+
+[11] [12] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -553,18 +568,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15617 strings out of 474116
- 313472 string characters out of 5743682
+ 15627 strings out of 474116
+ 313577 string characters out of 5743682
  1956187 words of memory out of 5000000
- 37725 multiletter control sequences out of 15000+600000
- 561037 words of font info for 46 fonts, out of 8000000 for 9000
+ 37730 multiletter control sequences out of 15000+600000
+ 562681 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,11n,93p,528b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (11 pages, 1430413 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (13 pages, 1457943 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
