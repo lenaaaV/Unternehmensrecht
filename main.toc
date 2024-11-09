@@ -19,3 +19,4 @@
 \contentsline {subsection}{\numberline {2.7}Formkaufmann}{9}{}%
 \contentsline {subsection}{\numberline {2.8}Scheinkaufmann}{9}{}%
 \contentsline {subsection}{\numberline {2.9}Zusammenfassung: Prüfungsreihenfolge}{10}{}%
+\contentsline {subsection}{\numberline {2.10}Wiederholungsfragen}{11}{}%
