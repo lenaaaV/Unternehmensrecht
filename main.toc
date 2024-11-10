@@ -20,3 +20,11 @@
 \contentsline {subsection}{\numberline {2.8}Scheinkaufmann}{9}{}%
 \contentsline {subsection}{\numberline {2.9}Zusammenfassung: Prüfungsreihenfolge}{10}{}%
 \contentsline {subsection}{\numberline {2.10}Wiederholungsfragen}{11}{}%
+\contentsline {section}{\numberline {3}3. Einheit}{12}{}%
+\contentsline {subsection}{\numberline {3.1}Handelsregister}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Eintragungsfähige Tatsachen}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Formelles Registerrecht}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Publizitätswirkungen des Handelsregisters (§ 15 HGB)}{14}{}%
+\contentsline {subsection}{\numberline {3.5}Die negative Publizität des Handelsregisters § 15 Abs.1 HGB}{15}{}%
+\contentsline {subsection}{\numberline {3.6}Richtig eingetragene bekanntgemachte Tatsachen § 15 Abs.2 HGB}{15}{}%
+\contentsline {subsection}{\numberline {3.7}Die positive Publizität des Handelsregisters § 15 Abs.3 HGB}{16}{}%
